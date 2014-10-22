@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="APCS/Garfield"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityStarterCode/activity2"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityStarterCode/activity3"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityStarterCode/activity4"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityStarterCode/activity5"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityTeacherCode/activity2complete"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityTeacherCode/activity3complete"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityTeacherCode/activity4complete"/>
+	<classpathentry kind="src" path="APCS/Labs/MagpieTeacherMaterials/MagpieActivityTeacherCode/activity5complete"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/studentdisk/Ch02/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch02/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch02/HelloGui"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch03/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch03/FirstSteps"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch04/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch05/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch05/Syntax"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/studentdisk/Ch06/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch06/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch06/Poll"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch07/Craps"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/studentdisk/Ch07/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch07/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch08/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch08/MyMath"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch09/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch09/Fraction"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch09/SnackBar"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch10/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch10/Lipogrammer"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch11/DanceStudio"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch11/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch12/Chomp"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch12/Fortunes"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch12/IndexMaker"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch13/Benchmarks"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch13/BinarySearch"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch13/Compare"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch13/SortedList"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch14/Exercises/Solutions"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/studentdisk/Ch15/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch15/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch15/Puzzle"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch16/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch16/Ramblecs"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch17/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch19/SafeTrade"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch20/Lists"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch20/Teletext"/>
+	<classpathentry excluding="Actors/|Browser/" kind="src" path="APCS/studentdisk/Ch21"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch21/Actors"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch21/Browser"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch22/Hex"/>
+	<classpathentry excluding="BST/|MorseCode/|Messenger/" kind="src" path="APCS/studentdisk/Ch23"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch23/BST"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch23/Messenger"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch23/MorseCode"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch24/Cryptogram"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch24/Giggle"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch25/Exercises"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch25/Heap"/>
+	<classpathentry excluding="Solutions/|Solutions/Question2/" kind="src" path="APCS/studentdisk/Ch26/Exercises"/>
+	<classpathentry excluding="Question2/" kind="src" path="APCS/studentdisk/Ch26/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/studentdisk/Ch26/Exercises/Solutions/Question2"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/StudentFiles/Ch02/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch02/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch02/Hello"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch02/HelloGui"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch03/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch03/GridWorld"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch04/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch05/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch05/Syntax"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/StudentFiles/Ch06/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch06/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch06/Poll"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch07/Craps"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/StudentFiles/Ch07/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch07/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch08/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch08/MyMath"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch09/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch09/Fraction"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch09/SnackBar"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch10/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch10/Lipogrammer"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/StudentFiles/Ch11/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch11/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch11/GridWorldDance"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch12/Chomp"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch12/Fortunes"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch13/IndexMaker"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch14/Benchmarks"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch14/BinarySearch"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch14/Compare"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch14/KeepInOrder"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch15/Dictionary/Solution"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch15/Exercises/Solutions"/>
+	<classpathentry excluding="Solutions/" kind="src" path="APCS/StudentFiles/Ch16/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch16/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch16/Puzzle"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch17/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch17/Ramblecs"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch18/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch20/SafeTrade"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch21/Lists"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch21/Teletext"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch22/Actors"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch22/Browser"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch22/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch23/Hex"/>
+	<classpathentry excluding="Messenger/|BST/|MorseCode/" kind="src" path="APCS/StudentFiles/Ch24"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch24/BST"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch24/Messenger"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch24/MorseCode"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch25/Cryptogram"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch25/Giggle"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch26/Exercises"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch26/Heap"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch27/Exercises/Solutions"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/Ch27/Goofenspiel/Solution"/>
+	<classpathentry kind="src" path="APCS/StudentFiles/EasyClasses"/>
+	<classpathentry excluding="Bo/|Daniel/|Test/|Josiah/|Assignment1/|BoAh/|SuIn/|Navaty/|Neath/|Tim/|Bunlong/|Hawon/|Sothun/" kind="src" path="APCS/StudentWork"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Assignment1"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Bo"/>
+	<classpathentry kind="src" path="APCS/StudentWork/BoAh"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Bunlong"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Daniel"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Hawon"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Josiah"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Navaty"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Neath"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Sothun"/>
+	<classpathentry kind="src" path="APCS/StudentWork/SuIn"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Test"/>
+	<classpathentry kind="src" path="APCS/StudentWork/Tim"/>
+	<classpathentry kind="src" path="APCS/Unit 1"/>
+	<classpathentry kind="src" path="APCS/Unit 2"/>
+	<classpathentry kind="src" path="Handin/src"/>
+	<classpathentry kind="lib" path="APCS/studentdisk/Ch16/Exercises/Keypad.jar"/>
+	<classpathentry kind="lib" path="APCS/studentdisk/Ch17/Draw/BalloonDraw.jar"/>
+	<classpathentry kind="lib" path="APCS/StudentFiles/Ch17/Exercises/Keypad.jar"/>
+	<classpathentry kind="lib" path="APCS/StudentFiles/Ch18/Draw/BalloonDraw.jar"/>
+	<classpathentry kind="lib" path="APCS/StudentFiles/Ch27/Goofenspiel/Goofenspiel.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Handin/bin"/>
+</classpath>
